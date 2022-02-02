@@ -50,7 +50,7 @@ document.querySelector(`.check`).addEventListener(`click`, function () {
     }
 })
 
-// Event handler for the `Again` button 
+// Event handler for the `Again` button
 
 document.querySelector(`.again`).addEventListener(`click`, function () {
     // Generate a new secret number
